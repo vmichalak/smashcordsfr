@@ -14,7 +14,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Link',
-      ['Pan\'s Awakening'],
+      ['Pan', 'SwuShy', 'Kuha', 'Iwa', 'Ennaria'],
       '8pm4FBB'
     ),
     new Discord(
