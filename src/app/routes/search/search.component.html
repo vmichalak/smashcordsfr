@@ -8,7 +8,18 @@
 </div>
 
 <div class="search-result-list">
+  <h2 *ngIf="characters.length > 0">Personnages</h2>
   <div class="search-result-item" *ngFor="let it of characters">
+    <app-discord-card [discord]="it"></app-discord-card>
+  </div>
+
+  <h2 *ngIf="local.length > 0">Régions</h2>
+  <div class="search-result-item" *ngFor="let it of local">
+    <app-discord-card [discord]="it"></app-discord-card>
+  </div>
+
+  <h2 *ngIf="others.length > 0">Autres</h2>
+  <div class="search-result-item" *ngFor="let it of others">
     <app-discord-card [discord]="it"></app-discord-card>
   </div>
 </div>

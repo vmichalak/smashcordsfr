@@ -1,6 +1,6 @@
 .search-header {
   width: 625px;
-  margin: 32px auto 64px auto;
+  margin: 32px auto 52px auto;
 
   &>p {
     text-align: center;
@@ -23,6 +23,10 @@
   width: 95%;
   max-width: 1250px;
   margin: 0 auto;
+
+  &>h2 {
+    margin: 24px 0 0 12px;
+  }
 }
 
 .search-result-item {

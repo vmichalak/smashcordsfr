@@ -5,7 +5,7 @@
           (mouseout)="mouseHovered=false" (click)="click()" class="mat-elevation-z1">
   <mat-card-content style="margin-bottom: 0">
     <mat-card-title><img class="discord-icon" [alt]="discord.name" [src]="discord.icon" />{{discord.name}}</mat-card-title>
-    <mat-card-subtitle>
+    <mat-card-subtitle *ngIf="discord.admins.length > 0">
       Admins: <span *ngFor="let it of discord.admins; let isLast=last">{{it}}{{isLast ? '' : ', '}}</span>
     </mat-card-subtitle>
   </mat-card-content>
