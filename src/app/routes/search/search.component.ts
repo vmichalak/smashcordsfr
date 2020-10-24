@@ -13,6 +13,6 @@ export class SearchComponent {
   public characters = this.service.characters;
 
   public onSearchValueChange(): void {
-    this.characters = this.service.characters.filter(it => it.name.includes(this.searchValue));
+    this.characters = this.service.characters.filter(it => it.name.toLowerCase().includes(this.searchValue.toLowerCase()));
   }
 }
