@@ -1,0 +1,12 @@
+<mat-card mat-ripple
+          [class.mat-elevation-z1]="!mouseHovered"
+          [class.mat-elevation-z6]="mouseHovered"
+          (mouseover)="mouseHovered=true"
+          (mouseout)="mouseHovered=false" (click)="click()" class="mat-elevation-z1">
+  <mat-card-content style="margin-bottom: 0">
+    <mat-card-title>{{discord.name}}</mat-card-title>
+    <mat-card-subtitle>
+      Admins: <span *ngFor="let it of discord.admins; let isLast=last">{{it}}{{isLast ? '' : ', '}}</span>
+    </mat-card-subtitle>
+  </mat-card-content>
+</mat-card>

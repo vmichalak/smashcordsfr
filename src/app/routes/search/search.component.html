@@ -1,0 +1,14 @@
+<div class="search-header">
+  <p>Annuaire des serveurs discord Smash Bros francophone</p>
+  <input
+    class="search-bar mat-elevation-z3"
+    placeholder="Recherche"
+    [(ngModel)]="searchValue"
+    (keyup)="onSearchValueChange()" />
+</div>
+
+<div class="search-result-list">
+  <div class="search-result-item" *ngFor="let it of characters">
+    <app-discord-card [discord]="it"></app-discord-card>
+  </div>
+</div>
