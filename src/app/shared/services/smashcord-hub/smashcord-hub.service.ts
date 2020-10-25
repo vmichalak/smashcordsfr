@@ -507,6 +507,12 @@ export class SmashcordHubService {
       'CzsRN83'
     ),
     new Discord(
+      'Smash Series',
+      'assets/others_icons/Smashtheque.png',
+      ['Zatsu', 'NtK', 'MamanDesSmasheurs'],
+      'kbr83H6'
+    ),
+    new Discord(
       'Smashthèque',
       'assets/others_icons/Smashtheque.png',
       ['Jochen', 'red', 'MIDZ'],
