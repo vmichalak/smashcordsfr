@@ -444,12 +444,6 @@ export class SmashcordHubService {
 
   public readonly local: Discord[] = [
     new Discord(
-      'Bourgogne-Franche-Comté',
-      'assets/local_icons/BourgogneFrancheComte.png',
-      [],
-      'ebcwTWU'
-    ),
-    new Discord(
       'Bretagne',
       'assets/local_icons/Bretagne.png',
       [],
