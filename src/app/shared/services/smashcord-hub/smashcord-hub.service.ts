@@ -311,7 +311,7 @@ export class SmashcordHubService {
     new Discord(
       'Daraen',
       'assets/character_icons/Robin.png',
-      ['Nep', 'Goomba_Man', 'Kuro Stayford'],
+      ['Nep', 'Goomba_Man', 'Kuro Stayford', 'Verzal'],
       'Gpc7Dbu'
     ),
     new Discord(
@@ -347,7 +347,7 @@ export class SmashcordHubService {
     new Discord(
       'Corrin',
       'assets/character_icons/Corrin.png',
-      ['batô', 'ChaosControl'],
+      ['batô', 'ChaosControl', 'KM'],
       'F98MKp8'
     ),
     new Discord(
