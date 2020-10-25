@@ -15,6 +15,10 @@ export class SearchComponent {
   public local = this.service.local;
   public others = this.service.others;
 
+  public isEmpty(): boolean {
+    return this.characters.length <= 0 && this.local.length <= 0 && this.others.length <= 0;
+  }
+
   public onSearchValueChange(): void {
     this.characters = this.service.characters.filter(it => it.name.toLowerCase().includes(this.searchValue.toLowerCase()));
     this.local = this.service.local.filter(it => it.name.toLowerCase().includes(this.searchValue.toLowerCase()));

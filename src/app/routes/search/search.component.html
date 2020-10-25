@@ -22,4 +22,6 @@
   <div class="search-result-item" *ngFor="let it of others">
     <app-discord-card [discord]="it"></app-discord-card>
   </div>
+
+  <app-empty-state *ngIf="isEmpty()"></app-empty-state>
 </div>
