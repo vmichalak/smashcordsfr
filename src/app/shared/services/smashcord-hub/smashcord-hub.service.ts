@@ -447,7 +447,7 @@ export class SmashcordHubService {
       'Bourgogne-Franche-Comté',
       'assets/local_icons/BourgogneFrancheComte.png',
       [],
-      'KD8jzCJ'
+      'ebcwTWU'
     ),
     new Discord(
       'Bretagne',
