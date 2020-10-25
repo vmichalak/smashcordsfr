@@ -377,7 +377,7 @@ export class SmashcordHubService {
     new Discord(
       'King K. Rool',
       'assets/character_icons/KingKRool.png',
-      ['BonneJoure', 'Misterzix'],
+      ['NeoSkyBlue'],
       'sQCDnKx'
     ),
     new Discord(
