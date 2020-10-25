@@ -492,7 +492,7 @@ export class SmashcordHubService {
       'DashProf',
       'assets/others_icons/DashProf.png',
       ['Cherushi', 'Miraph89', 'Naturiu', 'SoSamus Arab'],
-      'CzsRN83'
+      'PCy3Jfn'
     ),
     new Discord(
       'Glutonny & NtK',
@@ -510,7 +510,7 @@ export class SmashcordHubService {
       'Smashthèque',
       'assets/others_icons/Smashtheque.png',
       ['Jochen', 'red', 'MIDZ'],
-      'bronol'
+      '2HwUAyw'
     ),
     new Discord(
       'Super Smash Bronol',
