@@ -579,7 +579,7 @@ export class SmashcordHubService {
       'PaKB777'
     ),
     new Discord(
-      'Smash Academie',
+      'Smash Académie',
       'assets/others_icons/Smashtheque.png',
       ['Toyohoru', 'Ennaria'],
       'y8DbFjg'
