@@ -245,7 +245,7 @@ export class SmashcordHubService {
     new Discord(
       'Link Cartoon',
       'assets/character_icons/ToonLink.png',
-      ['Mutra', 'Pom', 'Law', 'Demo'],
+      ['Pom', 'Slonail'],
       'mSU95AB'
     ),
     new Discord(
