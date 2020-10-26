@@ -77,7 +77,7 @@ export class SmashcordHubService {
     new Discord(
       'Peach & Daisy',
       'assets/character_icons/Peach.png',
-      ['Kirino', 'Hoka'],
+      ['Kirino', 'Hokà', 'Raivals'],
       '5EDcCC9'
     ),
     new Discord(
