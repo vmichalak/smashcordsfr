@@ -531,7 +531,7 @@ export class SmashcordHubService {
       'FKhVzkg'
     ),
     new Discord(
-      'Mistery Cup',
+      'Mistery Team',
       'assets/others_icons/Smashtheque.png',
       ['Vildox'],
       'uyE4dHp'
@@ -567,7 +567,7 @@ export class SmashcordHubService {
       '4AygTet'
     ),
     new Discord(
-      'Salty\'s Cup',
+      'Salty Community',
       'assets/others_icons/Smashtheque.png',
       ['Natroxguy', 'Shaka', 'Chachuke', 'Faladop'],
       'PaKB777'
