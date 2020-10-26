@@ -555,7 +555,7 @@ export class SmashcordHubService {
       'CzsRN83'
     ),
     new Discord(
-      'Rendez-vous dans l\'Octogone',
+      'Rdv dans l\'Octogone',
       'assets/others_icons/Smashtheque.png',
       ['LoXi', 'Fabayou', 'Orso', 'Reunart'],
       'jVREASf'
