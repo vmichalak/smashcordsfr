@@ -489,10 +489,22 @@ export class SmashcordHubService {
 
   public readonly others: Discord[] = [
     new Discord(
+      'Chez Tamalou',
+      'assets/others_icons/Smashtheque.png',
+      ['Tamalou', 'IceSlimGuys', 'Inkkuid'],
+      'nXhBfhZ'
+    ),
+    new Discord(
       'DashProf',
       'assets/others_icons/DashProf.png',
       ['Cherushi', 'Miraph89', 'Naturiu', 'SoSamus Arab'],
       'PCy3Jfn'
+    ),
+    new Discord(
+      'FC Weeklies',
+      'assets/others_icons/Smashtheque.png',
+      ['Furamoh', 'Kyrow', 'Marin'],
+      'jX5gvf3'
     ),
     new Discord(
       'Glutonny & NtK',
@@ -501,10 +513,64 @@ export class SmashcordHubService {
       'KD8jzCJ'
     ),
     new Discord(
+      'La Ligue des Smasheurs',
+      'assets/others_icons/Smashtheque.png',
+      ['Kirino', 'AS'],
+      'W3eYf3j'
+    ),
+    new Discord(
+      'Legend of Sheikah',
+      'assets/others_icons/Smashtheque.png',
+      ['red', 'kaak', 'Yumé'],
+      'fx6AGJb'
+    ),
+    new Discord(
+      'Le Potager de Pierrot',
+      'assets/others_icons/Smashtheque.png',
+      ['Pierrot', 'Azertite'],
+      'FKhVzkg'
+    ),
+    new Discord(
+      'Mistery Cup',
+      'assets/others_icons/Smashtheque.png',
+      ['Vildox'],
+      'uyE4dHp'
+    ),
+    new Discord(
+      'One Punch Smash',
+      'assets/others_icons/Smashtheque.png',
+      ['Barrakauchy', 'Sanah'],
+      'f9agCSx'
+    ),
+    new Discord(
+      'Onirique',
+      'assets/others_icons/Smashtheque.png',
+      ['Chazzzing', 'Junkhead'],
+      'hAcxaVs'
+    ),
+    new Discord(
       'Pugilat des Etoiles',
       'assets/others_icons/PDE.png',
       ['Draco', 'DineAuZor', 'Pastaike'],
       'CzsRN83'
+    ),
+    new Discord(
+      'Rendez-vous dans l\'Octogone',
+      'assets/others_icons/Smashtheque.png',
+      ['LoXi', 'Fabayou', 'Orso', 'Reunart'],
+      'jVREASf'
+    ),
+    new Discord(
+      'Roket Team',
+      'assets/others_icons/Smashtheque.png',
+      ['Origin_Fox'],
+      '4AygTet'
+    ),
+    new Discord(
+      'Salty\'s Cup',
+      'assets/others_icons/Smashtheque.png',
+      ['Natroxguy', 'Shaka', 'Chachuke', 'Faladop'],
+      'PaKB777'
     ),
     new Discord(
       'Smash BFC',
@@ -525,10 +591,28 @@ export class SmashcordHubService {
       '2HwUAyw'
     ),
     new Discord(
+      'Squirtle Family',
+      'assets/others_icons/Smashtheque.png',
+      ['MaxouLeGlouglou'],
+      'bHbdACK'
+    ),
+    new Discord(
       'Super Smash Bronol',
       'assets/character_icons/Ness.png',
       ['Bronol', 'Addictio', 'El Laggron', 'Mr Cast'],
       'bronol'
+    ),
+    new Discord(
+      'Throw Your Stocks',
+      'assets/others_icons/Smashtheque.png',
+      ['Grandserein', 'BGITS'],
+      'gKhAUFs'
+    ),
+    new Discord(
+      'True Combo!',
+      'assets/others_icons/Smashtheque.png',
+      ['Speedroide', 'Diaminderino', 'Ice-Walker'],
+      'ytVvdn2'
     ),
     new Discord(
       'Trinity Janken',
