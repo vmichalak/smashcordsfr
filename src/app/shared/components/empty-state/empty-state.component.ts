@@ -6,7 +6,7 @@ import {Component, Input} from '@angular/core';
   styleUrls: ['./empty-state.component.scss']
 })
 export class EmptyStateComponent {
-  public imageId = this.random(0, 1);
+  public imageId = this.random(0, 4);
 
   private random(min, max): number {
     return Math.floor(Math.random() * (max - min + 1) + min);
