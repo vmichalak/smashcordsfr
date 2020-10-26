@@ -579,6 +579,12 @@ export class SmashcordHubService {
       'PaKB777'
     ),
     new Discord(
+      'Smash Academie',
+      'assets/others_icons/Smashtheque.png',
+      ['Toyohoru', 'Ennaria'],
+      'y8DbFjg'
+    ),
+    new Discord(
       'Smash BFC',
       'assets/others_icons/SmashBFC.png',
       ['Guilshark', 'Allen', 'Blitzfire', 'Hamtagro'],
