@@ -508,7 +508,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'FC Weeklies',
-      'assets/others_icons/Smashtheque.png',
+      'assets/others_icons/FCWeeklies.png',
       ['Furamoh', 'Kyrow', 'Marin'],
       'jX5gvf3'
     ),
