@@ -562,7 +562,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Rdv dans l\'Octogone',
-      'assets/others_icons/Smashtheque.png',
+      'assets/others_icons/Octogone.png',
       ['LoXi', 'Fabayou', 'Orso', 'Reunart'],
       'jVREASf'
     ),
