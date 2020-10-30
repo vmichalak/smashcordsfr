@@ -574,7 +574,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Salty Community',
-      'assets/others_icons/Smashtheque.png',
+      'assets/others_icons/SaltyCommunity.png',
       ['Natroxguy', 'Shaka', 'Chachuke', 'Faladop'],
       'PaKB777'
     ),
