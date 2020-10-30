@@ -538,7 +538,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Mystery Team',
-      'assets/others_icons/Smashtheque.png',
+      'assets/others_icons/MysteryTeam.png',
       ['Vildox'],
       'uyE4dHp'
     ),
