@@ -585,12 +585,6 @@ export class SmashcordHubService {
       'y8DbFjg'
     ),
     new Discord(
-      'Smash BFC',
-      'assets/others_icons/SmashBFC.png',
-      ['Guilshark', 'Allen', 'Blitzfire', 'Hamtagro'],
-      'ebcwTWU'
-    ),
-    new Discord(
       'Smash Series',
       'assets/others_icons/SmashSeries.png',
       ['Zatsu', 'NtK', 'MamanDesSmasheurs'],
@@ -619,6 +613,12 @@ export class SmashcordHubService {
       'assets/others_icons/Smashtheque.png',
       ['Grandserein', 'BGITS'],
       'gKhAUFs'
+    ),
+    new Discord(
+      'Tilt Together',
+      'assets/others_icons/TiltTogether.png',
+      ['Guilshark', 'Allen', 'Blitzfire', 'Hamtagro'],
+      'ebcwTWU'
     ),
     new Discord(
       'True Combo!',
