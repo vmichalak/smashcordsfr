@@ -474,6 +474,12 @@ export class SmashcordHubService {
       'F45w43p'
     ),
     new Discord(
+      'Ile-de-France',
+      'assets/others_icons/Smashtheque.png',
+      [],
+      'uqmpRnX'
+    ),
+    new Discord(
       'Normandie',
       'assets/local_icons/Normandie.png',
       [],
