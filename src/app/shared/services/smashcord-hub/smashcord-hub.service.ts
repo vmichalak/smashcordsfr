@@ -179,7 +179,7 @@ export class SmashcordHubService {
     new Discord(
       'Wario',
       'assets/character_icons/Wario.png',
-      ['Echo | Tapstar', 'SI | Arthur'],
+      ['Bastos', 'Juartz'],
       'jTDGUC2'
     ),
     new Discord(
