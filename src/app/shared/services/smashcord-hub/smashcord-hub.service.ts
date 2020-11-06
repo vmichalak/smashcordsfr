@@ -475,7 +475,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Ile-de-France',
-      'assets/others_icons/Smashtheque.png',
+      'assets/local_icons/IleDeFrance.png',
       [],
       'uqmpRnX'
     ),
@@ -502,7 +502,7 @@ export class SmashcordHubService {
   public readonly others: Discord[] = [
     new Discord(
       'Chez Tamalou',
-      'assets/others_icons/Smashtheque.png',
+      'assets/others_icons/ChezTamalou.png',
       ['Tamalou', 'IceSlimGuys', 'Inkkuid'],
       'nXhBfhZ'
     ),
@@ -526,7 +526,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'La Ligue des Smasheurs',
-      'assets/others_icons/Smashtheque.png',
+      'assets/others_icons/LigueDesSmasheurs.png',
       ['Kirino', 'AS'],
       'W3eYf3j'
     ),
@@ -538,7 +538,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Le Potager de Pierrot',
-      'assets/others_icons/Smashtheque.png',
+      'assets/others_icons/PotagerDePierrot.png',
       ['Pierrot', 'Azertite'],
       'FKhVzkg'
     ),
@@ -556,7 +556,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Onirique',
-      'assets/others_icons/Smashtheque.png',
+      'assets/others_icons/Onirique.png',
       ['Chazzzing', 'Junkhead'],
       'hAcxaVs'
     ),
@@ -604,7 +604,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Squirtle Family',
-      'assets/others_icons/Smashtheque.png',
+      'assets/others_icons/SquirtleFamily.png',
       ['MaxouLeGlouglou'],
       'bHbdACK'
     ),
