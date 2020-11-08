@@ -20,8 +20,12 @@ export class SearchComponent {
   }
 
   public onSearchValueChange(): void {
-    this.characters = this.service.characters.filter(it => it.name.toLowerCase().includes(this.searchValue.toLowerCase()));
-    this.local = this.service.local.filter(it => it.name.toLowerCase().includes(this.searchValue.toLowerCase()));
-    this.others = this.service.others.filter(it => it.name.toLowerCase().includes(this.searchValue.toLowerCase()));
+    const search = this.searchValue.toLowerCase();
+    this.characters = this.service.characters.filter(it => it.name.toLowerCase().includes(search) ||
+      it.keywords.map(kw => kw.toLowerCase()).filter(kw => kw.includes(search)).length > 0);
+    this.local = this.service.local.filter(it => it.name.toLowerCase().includes(search) ||
+      it.keywords.map(kw => kw.toLowerCase()).filter(kw => kw.includes(search)).length > 0);
+    this.others = this.service.others.filter(it => it.name.toLowerCase().includes(search) ||
+      it.keywords.map(kw => kw.toLowerCase()).filter(kw => kw.includes(search)).length > 0);
   }
 }
