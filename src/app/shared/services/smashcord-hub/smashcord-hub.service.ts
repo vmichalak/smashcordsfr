@@ -486,6 +486,12 @@ export class SmashcordHubService {
       'vwzWMPj'
     ),
     new Discord(
+      'Nouvelle-Aquitaine',
+      'assets/others_icons/Smashtheque.png',
+      [],
+      'zmGqaAb'
+    ),
+    new Discord(
       'Picardie',
       'assets/local_icons/Picardie.png',
       [],
