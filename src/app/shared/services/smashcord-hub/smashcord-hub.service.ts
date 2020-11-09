@@ -567,7 +567,7 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Nouvelle-Aquitaine',
-      'assets/others_icons/Smashtheque.png',
+      'assets/local_icons/NouvelleAquitaine.png',
       [],
       ['Bordeaux', 'Bayonne', 'Pau', 'Poitiers', 'Périgueux', 'Angoulème', 'La Rochelle'],
       'zmGqaAb'
