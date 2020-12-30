@@ -512,6 +512,13 @@ export class SmashcordHubService {
       ['Patoo', 'Kely'],
       [],
       '7nK7ADz'
+    ),
+    new Discord(
+      'Sephiroth',
+      'assets/character_icons/Sephiroth.png',
+      ['Niko', '2Z', 'Exirox', 'Shadodow'],
+      [],
+      'APW2QScwW7'
     )
   ];
 
