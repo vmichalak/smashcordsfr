@@ -519,6 +519,13 @@ export class SmashcordHubService {
       ['Niko', '2Z', 'Exirox', 'Shadodow'],
       [],
       'APW2QScwW7'
+    ),
+    new Discord(
+      'Pyra / Mythra',
+      'assets/character_icons/Pyra.png',
+      ['McQuell', 'Pom', 'Gwem', 'Dreekius'],
+      ['Pneuma', 'Aegis', 'Pythra'],
+      '7g8gY7wQJH'
     )
   ];
 
