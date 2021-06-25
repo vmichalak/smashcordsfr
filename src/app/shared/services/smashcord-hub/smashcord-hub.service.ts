@@ -526,6 +526,13 @@ export class SmashcordHubService {
       ['McQuell', 'Pom', 'Gwem', 'Dreekius'],
       ['Pneuma', 'Aegis', 'Pythra'],
       '7g8gY7wQJH'
+    ),
+    new Discord(
+      'Kazuya',
+      'assets/others_icons/Smashtheque.png',
+      ['JRN', 'RaZoR', 'Hato'],
+      [],
+      'Njtpw4W656'
     )
   ];
 
