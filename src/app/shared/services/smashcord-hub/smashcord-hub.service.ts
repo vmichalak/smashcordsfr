@@ -711,7 +711,7 @@ export class SmashcordHubService {
     new Discord(
       'Smash Académie',
       'assets/others_icons/Smashtheque.png',
-      ['Toyohoru', 'Ennaria'],
+      ['Flowalt', 'Ennaria'],
       [],
       'y8DbFjg'
     ),
