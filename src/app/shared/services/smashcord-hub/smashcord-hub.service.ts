@@ -529,10 +529,17 @@ export class SmashcordHubService {
     ),
     new Discord(
       'Kazuya',
-      'assets/others_icons/Smashtheque.png',
+      'assets/character_icons/Kazuya.png',
       ['JRN', 'RaZoR', 'Hato'],
       [],
       'Njtpw4W656'
+    ),
+    new Discord(
+      'Sora',
+      'assets/character_icons/Sora.png',
+      ['AbsoleK', 'Pan', 'Erelys', 'Ellis'],
+      [],
+      'AaZjVBnANh'
     )
   ];
 
