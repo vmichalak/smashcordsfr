@@ -238,7 +238,7 @@ export class SmashcordHubService {
       'assets/character_icons/DiddyKong.png',
       ['Demo', 'Nahé', 'Neath', 'Lemonke', 'Ouiyam'],
       [],
-      'xEPP8WC'
+      'aNm6hmkwjV'
     ),
     new Discord(
       'Lucas',
