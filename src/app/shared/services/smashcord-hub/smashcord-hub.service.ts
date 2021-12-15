@@ -236,7 +236,7 @@ export class SmashcordHubService {
     new Discord(
       'Diddy Kong',
       'assets/character_icons/DiddyKong.png',
-      ['Demo', 'Nahé', 'Neath', 'Lemonke', 'Ouiyam'],
+      ['Clipho', 'Miden', 'Feyuu', 'Kekepi', 'Nahé', 'Laggron'],
       [],
       'aNm6hmkwjV'
     ),
