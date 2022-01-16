@@ -723,6 +723,13 @@ export class SmashcordHubService {
       'y8DbFjg'
     ),
     new Discord(
+      'Smash Bros Universe',
+      'assets/others_icons/Smashtheque.png',
+      ['Juu', 'pmousse', 'Exkka'],
+      [],
+      'vwVCAUj'
+    ),
+    new Discord(
       'Smash Series',
       'assets/others_icons/SmashSeries.png',
       ['Zatsu', 'NtK', 'MamanDesSmasheurs'],
