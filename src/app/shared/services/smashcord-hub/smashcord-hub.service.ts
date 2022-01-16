@@ -641,7 +641,7 @@ export class SmashcordHubService {
     new Discord(
       'Glutonny & NtK',
       'assets/others_icons/NtKGluto.png',
-      ['Glutonny', 'NtK', 'Zatsu', 'Amadeus', 'Champi_S'],
+      ['Glutonny', 'NtK', 'Champi_S'],
       ['Wanted'],
       'KD8jzCJ'
     ),
@@ -732,7 +732,7 @@ export class SmashcordHubService {
     new Discord(
       'Smash Series',
       'assets/others_icons/SmashSeries.png',
-      ['Zatsu', 'NtK', 'MamanDesSmasheurs'],
+      ['Zatsu', 'Humanbomb', 'Allen', 'NtK', 'MamanDesSmasheurs'],
       [],
       'kbr83H6'
     ),
